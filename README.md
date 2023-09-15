@@ -18,7 +18,7 @@ By clearly understanding what kinds of movies are currently succeeding at the bo
 - maximize audience involvement and revenue.
 - Create a solid basis for success in the cutthroat industry of filmmaking.
 
-![Image of studio](http://localhost:8890/files/Moringa%20Data%20Science/Phase%201/Project/dsc-phase-one-project/movie_studio-Copy1.jpeg)
+![Image of studio](http://localhost:8890/files/Moringa%20Data%20Science/Phase%201/Project/dsc-phase-one-project/movie_studio-Copy1.jpeg](https://github.com/MarionJelimo/dsc-phase-one-project-main/blob/main/Plot%20Images/Month%20vs.%20Audience%20size.png))
 
 
 ### Objectives
